@@ -1,19 +1,8 @@
-# Functiun in Python
+# Python - Architector
 
-This is the functiun to PGCD who take 2 numbers and who give the 
-most divisor of the 2 numbers
+I am specialicate in Pyhton.
 
-# Fonction en Python
+You see in my codes.
 
-C'est la fonction de PGCD qui prend 2 nombres et qui donne le
-plus grand diviseur des 2 nombres
+That I can make functiun but I am not only make this.
 
-# Función en Python
-
-Esta es la función de PGCD que toma 2 números y da como resultado el
-mayor divisor de los 2 números
-
-# Funktion in Python
-
-Dies ist die Funktion für PGCD, die 2 Zahlen nimmt und den 
-größten Teiler der 2 Zahlen angibt.
