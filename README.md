@@ -13,3 +13,6 @@ I learn thos languages so if you have advices,
 I don's say no !
 
 See you soon
+
+
+![Python-Symbole](https://github.com/user-attachments/assets/7252ba7f-6ccd-4f78-b6c2-dbf86f8c960f)
