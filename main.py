@@ -1,16 +1,13 @@
-Functiun of PGCD in Python :
+import n_premiers as premier
+import PGCD as plus_grand_diviseur_commun
 
-def pgcd(x, y):
-    print("calcul pgcd de", x, "et", y, ":")
-    result = 0
+nombre_1 = int(input("Quel est ton 1er nombre ?"))
+nombre_2 = int(input("Quel est ton 2em nombre ?"))
 
-    for i in range(1, max(x, y)):
-        if (x % i == 0) and (y % i == 0):
-            result = i
-        
-    return result
+if premier.nombrePremiers(nombre_1):
+    print(nombre_1, " est un nombre premiers")
 
-#Exemple
-print(pgcd(x=8, y=4))
-print(pgcd(x=24, y=8))
+if premier.nombrePremiers(nombre_2):
+    print(nombre_2, " est un nombre premiers")
 
+print(plus_grand_diviseur_commun.pgcd(x=nombre_1, y=nombre_2))
